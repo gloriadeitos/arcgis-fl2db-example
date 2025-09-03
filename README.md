@@ -1,6 +1,6 @@
 # UCM-ArcGISpythonBD
 
-O objetivo deste script é atualizar o banco de dados da base indoor do UCM CampusMap (versão 1.0) utilizando o Feature Layer publicado no ArcGIS Online.
+O objetivo deste script é atualizar o banco de dados utilizando o Feature Layer publicado no ArcGIS Online.
 
 Essa atualização garante que os dados estejam sincronizados e reflitam as informações mais recentes disponíveis na plataforma.
 
