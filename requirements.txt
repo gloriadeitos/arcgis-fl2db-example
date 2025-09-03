@@ -1,0 +1,2 @@
+arcgis==2.4.0
+psycopg2==2.9.9

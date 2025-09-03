@@ -1,0 +1,15 @@
+log_file: "./operacao.log"
+day_interval: 7
+
+database:
+  dbname:
+  user:
+  password:
+  host:
+  port:
+
+gis:
+  url:
+  user:
+  password:
+  feature_layer:
